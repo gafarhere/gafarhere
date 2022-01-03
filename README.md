@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gafarhere
+- 👀 I’m interested in video gaming, ui/ux design and lifestyle
+- 🌱 I’m currently learning flutter and dart
+- 💞️ I’m looking to collaborate on full development team to be part of product creation process.
+- 📫 How to reach me: gafarserikkaliyev@gmail.com
